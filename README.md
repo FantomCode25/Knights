@@ -1,7 +1,5 @@
 # NeoVerify - Advanced News Verification System
-
-![NeoVerify Logo](backend/news_verification/static/neoVerifyLogo.png)
-
+![NeoVerify_Logo](backend/news_verification/static/images/neoVerifyLogo.png)
 **NeoVerify** is a sophisticated news verification system that analyzes multimedia content and verifies claims through an AI-powered debate process. It helps users identify misinformation by pitting different AI models against each other in structured debates.
 
 ## 📋 Table of Contents
@@ -20,8 +18,6 @@
 
 NeoVerify is designed to combat misinformation by extracting and verifying claims from various media types. The system utilizes multiple AI models (Llama, DeepSeek, and Gemini) to debate and fact-check claims, providing users with a comprehensive analysis of potentially misleading information.
 
-![System Workflow](backend/news_verification/static/architecturepng)
-
 ## ✨ Features
 
 - **Multi-modal Input Processing**: Analyze text, images, videos, audio, and web URLs
@@ -34,7 +30,7 @@ NeoVerify is designed to combat misinformation by extracting and verifying claim
 
 ## 🔧 Technology Stack
 
-- **Backend**: Python, Flask
+- **fantom_code_final/backend**: Python, Flask
 - **AI Models**:
   - Llama (via Groq API)
   - DeepSeek (via Groq API)
@@ -163,26 +159,24 @@ Provides a web interface for:
 - **DeepSeek**: Acts as the primary fact-checker
 - **Gemini**: Extracts claims, arbitrates debates, and identifies fact-checking needs
 
-![Architecture Diagram](backend/news_verification/static/images/architecture.png)
+![Architecture Diagram](fantom_code_final/backend/news_verification/static/images/architecture.png)
 
 ## 🎬 Demo
 
 ### Main Interface
-![Main Interface](https://via.placeholder.com/800x400?text=NeoVerify+Main+Interface)
+![Main Interface](fantom_code_final/backend/news_verification/static/images/heroSection.png)
 
 ### Upload Page
-![Upload Page](https://via.placeholder.com/800x400?text=NeoVerify+Upload+Page)
+![Upload Page](fantom_code_final/backend/news_verification/static/images/uploadSection.png)
 
 ### Knowledge Graph
-![Knowledge Graph](https://via.placeholder.com/800x400?text=NeoVerify+Knowledge+Graph)
+![Knowledge Graph](fantom_code_final/backend/news_verification/static/images/knowledgeGraphSection.png)
 
 ### Chat Interface
-![Chat Interface](https://via.placeholder.com/800x400?text=NeoVerify+Chat+Interface)
+![Chat Interface](fantom_code_final/backend/news_verification/static/images/chatSection.png)
 
 ## 🤝 Contributing
-
 Contributions are welcome! Please feel free to submit a Pull Request.
-
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
@@ -191,10 +185,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 
 ## 📞 Contact
-
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Email**: your.email@example.com
-
+- [SriRam.A](https://github.com/Sri-Ram-A) - *Project Lead*
+- [Sankalp Khamesra](https://github.com/itsthemahn) - *fantom_code_final/backend Developer*
 ---
