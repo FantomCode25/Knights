@@ -1,5 +1,5 @@
 # NeoVerify - Advanced News Verification System
-![NeoVerify_Logo](backend/news_verification/static/images/neoVerifyLogo.png)
+![NeoVerify_Logo](fantom_code_final/backend/news_verification/static/images/neoVerifyLogo.png)
 **NeoVerify** is a sophisticated news verification system that analyzes multimedia content and verifies claims through an AI-powered debate process. It helps users identify misinformation by pitting different AI models against each other in structured debates.
 
 ## 📋 Table of Contents
